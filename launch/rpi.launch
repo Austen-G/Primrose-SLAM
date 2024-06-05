@@ -5,5 +5,7 @@
         <arg name="align_depth" value="true"/>
         <arg name="linear_accel_cov" value="1.0"/>
         <arg name="unite_imu_method" value="linear_interpolation"/>
+        <arg name="enable_gyro" value="true"/>
+        <arg name="enable_accel" value="true"/>
     </include>
 </launch>
